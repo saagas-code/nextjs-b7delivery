@@ -13,3 +13,5 @@ Projeto descontinuado do curso B7WEB, desenvolvido com o intuito de ser um [SaaS
 ### ✔ Hooks
 ### ✔ Prisma
 
+### License
+© [SaagaS](https://github.com/SaagaS0)
